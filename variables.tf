@@ -3,7 +3,7 @@ variable "region" {
   default = "ap-southeast-1"
 }
 
-variable "AWS_ACCESS_KEY" {
+variable "AWS_ACCESS_KEY_ID" {
   type = string
   default = ""
 }
